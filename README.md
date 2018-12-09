@@ -8,7 +8,7 @@ Pre-requisites
 --------------
 
 - Android SDK v28
-- Android Build Tools v28.0.2
+- Android Build Tools v28.0.0
 - Android Support Repository v28.0.0
 
 Getting Started
